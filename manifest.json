@@ -1,11 +1,11 @@
 {
-    "name": "madarix_supplier",
-    "short_name": "madarix_supplier",
+    "name": "Madarix",
+    "short_name": "Madarix",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "منصة متكاملة للتجارة الإلكترونية تجمع البائعين والموردين في مكان واحد، وتوفر لهم الأدوات التي تساعدهم على إدارة الطلبات، فهم العملاء، تقليل الـRetour، اكتشاف المنتجات والفرص الجديدة، وإنشاء صفحات بيع احترافية لتنمية تجارتهم.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
