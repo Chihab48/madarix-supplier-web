@@ -103269,7 +103269,7 @@ return q},
 $S:656}
 A.SP.prototype={
 J(a){var s=null
-return new A.xL($.b3j(),"MadariX SaaS",A.q4(s,s,"Inter",B.f,s),B.uV,B.VV,!1,s)}}
+return new A.xL($.b3j(),"Madarix",A.q4(s,s,"Inter",B.f,s),B.uV,B.VV,!1,s)}}
 A.aNs.prototype={
 $2(a,b){return B.a3J},
 $S:657}
