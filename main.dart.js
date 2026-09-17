@@ -104819,35 +104819,34 @@ J(a){var s=null
 return A.fy(s,B.b8,A.c_(A.as(A.b([A.ah(s,B.uh,B.k,s,s,B.qE,s,s,s,s,B.a2,s,s,s),B.bP,B.r6],t.p),B.n,B.b9,B.j),s,s),s,!1,s,s)}}
 A.aKx.prototype={
 $1(a){return this.a8Z(a)},
-a8Z(a){var s=0,r=A.w(t.H),q,p=2,o=[],n=this,m,l,k,j,i,h,g,f,e
+a8Z(a){var s=0,r=A.w(t.H),q,p=2,o=[],n=this,m,l,k,j,i,h,g,f
 var $async$$1=A.r(function(b,c){if(b===1){o.push(c)
-s=p}for(;;)switch(s){case 0:f=n.a
-if(f.f||f.c==null){s=1
-break}i=a.b
-h=i==null
-m=h?null:i.r
-if(h||m==null){f.D2("/supplier-login")
+s=p}for(;;)switch(s){case 0:g=n.a
+if(g.f||g.c==null){s=1
+break}j=a.b
+i=j==null
+m=i?null:j.r
+if(i||m==null){g.D2("/index")
 s=1
 break}p=4
-h=f.d
+i=g.d
 s=7
-return A.p(h.bl("profiles").eI("role").cu("id",m.a).kx(),$async$$1)
+return A.p(i.bl("profiles").eI("role").cu("id",m.a).kx(),$async$$1)
 case 7:l=c
-if(f.c==null||f.f){s=1
+if(g.c==null||g.f){s=1
 break}if(l!=null&&l.h(0,"role")!=null){k=J.bc(l.h(0,"role")).toLowerCase()
-if(J.c(k,"supplier")){f.D2("/index")
+if(J.c(k,"supplier")){g.D2("/supplier/products")
 s=1
 break}}s=8
-return A.p(h.gcE().k8(B.ix,B.e2),$async$$1)
-case 8:f.D2("/supplier-login")
+return A.p(i.gcE().k8(B.ix,B.e2),$async$$1)
+case 8:g.D2("/index")
 p=2
 s=6
 break
 case 4:p=3
-e=o.pop()
-j=A.a2(e)
-A.h6().$1("Splash Auth Error: "+A.i(j))
-f.D2("/supplier-login")
+f=o.pop()
+A.h6().$1("Splash Auth Error")
+g.D2("/index")
 s=6
 break
 case 3:s=2
