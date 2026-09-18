@@ -103757,7 +103757,7 @@ A.qW.prototype={
 a7(){var s,r=$.dQ().b
 r===$&&A.a()
 s=$.ad()
-return new A.IB(r,new A.c7(B.ak,s),new A.c7(B.ak,s),new A.c7(new A.c8("20",B.bl,B.ao),s),new A.c7(new A.c8("0.00",B.bl,B.ao),s),A.b(["\xc9lectronique","V\xeatements","Maison","Beaut\xe9","Cosmetique","Sacs & Bagages","\xc9lectrom\xe9nager","Produits de beaut\xe9","Accessoires Cuisine","Accessoires T\xe9l\xe9phoniques","Autre"],t.s))}}
+return new A.IB(r,new A.c7(B.ak,s),new A.c7(B.ak,s),new A.c7(new A.c8("20",B.bl,B.ao),s),new A.c7(new A.c8("0.00",B.bl,B.ao),s),A.b(["\xc9lectronique","V\xeatements","Maison","Beaut\xe9","Cosmetique","Sacs & Bagages","\xc9lectrom\xe9nager","Produits de beaut\xe9","Accessoires Cuisine","Accessoires de voiture","D\xe9coration","Accessoires T\xe9l\xe9phoniques","Autre"],t.s))}}
 A.IB.prototype={
 an(){var s=this
 s.aC()
